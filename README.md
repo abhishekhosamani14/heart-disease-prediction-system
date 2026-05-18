@@ -99,11 +99,11 @@ streamlit run app.py
 
   <a href = "https://github.com/abhishekhosamani14/heart-disease-prediction-system/blob/main/Screenshots/login%20page.jpeg">View Login Page </a>
 
-  <a href = "https://github.com/abhishekhosamani14/heart-disease-prediction-system/blob/main/Screenshots/main%20page.png"><View Prediction Dashboard</a>
+  <a href = "https://github.com/abhishekhosamani14/heart-disease-prediction-system/blob/main/Screenshots/main%20page.png"><View Prediction Dashboard </a>
   
   <a href="https://github.com/abhishekhosamani14/heart-disease-prediction-system/blob/main/Screenshots/result.png">View Result</a>
 
-  <a href="https://github.com/Bharati-M/heart-disease-prediction-app/blob/main/Screenshots/pdf%20report.png">View PDF Report</a>
+   <a href="https://github.com/abhishekhosamani14/heart-disease-prediction-system/blob/main/Screenshots/pdf%20report.png">View PDF Report</a>
 
 
 
