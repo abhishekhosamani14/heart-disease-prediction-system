@@ -97,7 +97,7 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-  <a href="https://github.com/Bharati-M/heart-disease-prediction-app/blob/main/Screenshots/login%20page.jpeg">View Login Page </a>
+  <a href = "https://github.com/abhishekhosamani14/heart-disease-prediction-system/blob/main/Screenshots/login%20page.jpeg">View Login Page </a>
 
   <a href="https://github.com/Bharati-M/heart-disease-prediction-app/blob/main/Screenshots/main%20page.png">View Prediction Dashboard </a>
   
